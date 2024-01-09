@@ -2,7 +2,7 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'penny_core'
+name: 'core_mesh_upstream'
 version: '1.0.0'
 config-version: 2
 
